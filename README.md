@@ -1,5 +1,5 @@
-# massive-ironman
+# Robottiohjelmoinnin harjoitustyö
 
-Joulun robolabran 2015 pohja
+Lego nxt robot that sorts lego bricks by their colour(red, green, else)
 
-Ohjaus verkossa: #robolabra @ ircnet
+Demo video on YouTube: https://www.youtube.com/watch?v=mnEsoQs7Gkg
